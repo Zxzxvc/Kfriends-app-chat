@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android Studio/IntelliJ
+out/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to checked into version control
+.vscode/
+
+# Miscellaneous files such as dex files and static libraries should be ignored
+*.dex
+*.so
+*.jar
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Keystore files
+*.jks
+*.keystore
